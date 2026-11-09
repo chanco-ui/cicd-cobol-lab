@@ -1,0 +1,4 @@
+# COBOLソースは作業ツリー上はShift_JIS＋CRLF、Git内部はUTF-8で保存
+*.cbl text working-tree-encoding=SHIFT-JIS eol=crlf
+*.cpy text working-tree-encoding=SHIFT-JIS eol=crlf
+*.sh  text eol=lf
